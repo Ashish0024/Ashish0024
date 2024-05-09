@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ashish0024" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="ashish0024" height="40" width="40" /></a>
+<a href="https://instagram.com/ashishh0024" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="ashishh0024" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/--ashish--/" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="--ashish--" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
